@@ -1,4 +1,4 @@
-1. 作品應用主題 : 
+1. 作品應用主題 : 不倒翁
 2. 選用硬體 : NVIDIA Jetson Nano、Webcam、IWR6843AOPEVM mmWave sensor、LDC model、LED model、speaker model
 3. 選料說明 : 
     1. NVIDIA Jetson Nano : 開發可用Python，方便撰寫
