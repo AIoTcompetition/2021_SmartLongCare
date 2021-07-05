@@ -15,7 +15,7 @@
     - record_BodyTracking.py：錄影模式展示人體骨架追蹤模型。
     - utils 資料夾：建立 Function 以簡化主程式。
     - pyKinectAzure 資料夾：基於 Python 建立易於使用的 Library 以使用 Azure Kinect 大部分的 Function。
-    - requirements.txt：環境需求。
+    - requirements.txt：環境需求文件。
 
 6. 環境需求：
     - [Azure Kinect Sensor SDK](https://docs.microsoft.com/zh-tw/azure/kinect-dk/sensor-sdk-download)
@@ -27,10 +27,10 @@
 6. 貢獻：
     1. 使用 3D 骨架計算關節角度。  
     2. 整合體適能規則計算完成次數。  
-        - 肱二頭肌趨舉
+        - 肱二頭肌屈舉
         - 椅子坐立
         - 原地坐立抬膝
-    3. 完善 Python 環境下錄影與播放紀錄檔功能。
+    3. 完善 Python 環境下錄影與播放功能。
 
 7. 致謝：
     - Github [pyKinectAzure](https://github.com/ibaiGorordo/pyKinectAzure) @[Ibai Gorordo](https://github.com/ibaiGorordo)
