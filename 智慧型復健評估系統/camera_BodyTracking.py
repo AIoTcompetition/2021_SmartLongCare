@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(1, './智慧型復健評估系統/pyKinectAzure/')
+sys.path.insert(1, './智慧型復健評估系統/pyKinectAzure/')	# Path to pyKinectAzure fold
 
 import numpy as np
 from pyKinectAzure.pyKinectAzure import pyKinectAzure, _k4a
