@@ -8,7 +8,7 @@
 5. 程式碼說明: <br/>
     PC Req: pytorch>=1.8.0、tensorboardX>=2.2、opencv、matplotlib、yacs. <br/>
     若要在Xilinx_PYNQZ2上執行需安裝PyTorch、tensorboardX>=2.2、opencv、matplotlib、yacs. <br/>
-    下載[預訓練權重](https://drive.google.com/file/d/1_rK0NMNGNtJi_8S1Pxw7HxEVtpCQ4Hk4/view?usp=sharing)並放到model資料夾中<br/>
+    在repo中建立一個model資料夾並下載[預訓練權重](https://drive.google.com/file/d/1_rK0NMNGNtJi_8S1Pxw7HxEVtpCQ4Hk4/view?usp=sharing)放置於model資料夾中<br/>
     需切換工作路徑至與CPU17.py同層資料夾中
     - CPU17.py: AI運算檔
     - get_img.py: 擷取攝像頭的影像進行運算
