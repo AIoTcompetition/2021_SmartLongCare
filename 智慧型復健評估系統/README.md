@@ -9,13 +9,15 @@
     <div align=center><img src='https://github.com/JerryJack121/SmartLongCare/blob/main/%E6%99%BA%E6%85%A7%E5%9E%8B%E5%BE%A9%E5%81%A5%E8%A9%95%E4%BC%B0%E7%B3%BB%E7%B5%B1/image/%E7%A1%AC%E9%AB%94%E6%9E%B6%E6%A7%8B%E9%80%A3%E6%8E%A5%E5%9C%96.jpg?raw=true' alt='硬體連接架構圖'/></div>
 
 5. 程式碼說明：
-    - demo.py：體適能動作計數主程式。
-    - camera_BodyTracking.py：相機模式展示人體骨架追蹤模型。
-    - Recording.py：建立錄影檔案。
-    - record_BodyTracking.py：錄影模式展示人體骨架追蹤模型。
-    - utils 資料夾：建立 Function 以簡化主程式。
-    - pyKinectAzure 資料夾：基於 Python 建立易於使用的 Library 以使用 Azure Kinect 大部分的 Function。
-    - requirements.txt：環境需求文件。
+    1. 主程式
+        - demo.py：體適能動作計數主程式。
+        - camera_BodyTracking.py：相機模式展示人體骨架追蹤模型。
+        - Recording.py：建立錄影檔案。
+        - record_BodyTracking.py：錄影模式展示人體骨架追蹤模型。
+    2. 工具
+        - utils 資料夾：建立 Function 以簡化主程式。
+        - pyKinectAzure 資料夾：基於 Python 建立易於使用的 Library 以使用 Azure Kinect 大部分的 Function。
+        - requirements.txt：環境需求文件。
 
 6. 環境需求：
     - [Azure Kinect Sensor SDK](https://docs.microsoft.com/zh-tw/azure/kinect-dk/sensor-sdk-download)
