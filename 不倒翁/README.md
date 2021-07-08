@@ -1,7 +1,7 @@
 1. 作品應用主題 : 不倒翁
-2. 選用硬體 : NVIDIA Jetson Nano、Webcam、IWR6843AOPEVM mmWave sensor、LDC model、LED model、speaker model
+2. 選用硬體 : PYNQ-Z2、Webcam、IWR6843AOPEVM mmWave sensor、LDC model、LED model、speaker model
 3. 選料說明 : 
-    1. NVIDIA Jetson Nano : 開發可用Python，方便撰寫
+    1. PYNQ-Z2 : 開發可用Python，方便撰寫
     2. Webcam : 與IWR6843AOPEVM mmWave sensor一起偵測環境
     3. IWR6843AOPEVM mmWave sensor : 與Webcam一起偵測環境
     4. LDC model : 顯示時間日期資訊
