@@ -8,7 +8,7 @@
     5. LED model : 環境柔光效果工具
     6. speaker model : 當特殊事件發生時可以提醒現場人員
 4. 軟硬體連接架構圖 :  <br/>
-    ![](https://firebasestorage.googleapis.com/v0/b/fast-mariner-312118.appspot.com/o/picture%2F%E7%A1%AC%E9%AB%94%E6%9E%B6%E6%A7%8B%E5%9C%96.png?alt=media&token=b78de799-964b-4be4-948e-95c5f5f481a0) 
+    ![](https://firebasestorage.googleapis.com/v0/b/fast-mariner-312118.appspot.com/o/picture%2FmessageImage_1625746566293.jpg?alt=media&token=f12e6baa-065e-49e0-9c64-f992723bb257) 
     <br/>
     ![](https://firebasestorage.googleapis.com/v0/b/fast-mariner-312118.appspot.com/o/picture%2F%E6%8A%95%E5%BD%B1%E7%89%8716.PNG?alt=media&token=95a30569-842e-4a9f-84cc-8ecaf0487ec4)
 5. 程式碼說明
