@@ -10,6 +10,6 @@
 4. 軟硬體連接架構圖 :  <br/>
     ![](https://firebasestorage.googleapis.com/v0/b/fast-mariner-312118.appspot.com/o/picture%2F%E7%A1%AC%E9%AB%94%E6%9E%B6%E6%A7%8B%E5%9C%96.png?alt=media&token=b78de799-964b-4be4-948e-95c5f5f481a0) 
     <br/>
-    ![](https://firebasestorage.googleapis.com/v0/b/fast-mariner-312118.appspot.com/o/picture%2F%E8%BB%9F%E9%AB%94%E6%9E%B6%E6%A7%8B%E5%9C%96.png?alt=media&token=6c79ea78-76ba-4ddc-8f9d-b151ec28d29a)
+    ![](https://firebasestorage.googleapis.com/v0/b/fast-mariner-312118.appspot.com/o/picture%2F%E6%8A%95%E5%BD%B1%E7%89%871.PNG?alt=media&token=768df27b-f208-4737-b978-153bcafef2f4)
 5. 程式碼說明
     - example.py
