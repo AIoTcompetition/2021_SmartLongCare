@@ -1,10 +1,10 @@
 1. 作品應用主題 : 不倒翁
-2. 選用硬體 : PYNQ-Z2、Webcam、IWR6843AOPEVM mmWave sensor、LDC model、LED model、speaker model
+2. 選用硬體 : PYNQ-Z2、Webcam、IWR6843AOPEVM mmWave sensor、LCD model、LED model、speaker model
 3. 選料說明 : 
     1. PYNQ-Z2 : 開發可用Python，方便撰寫
     2. Webcam : 與IWR6843AOPEVM mmWave sensor一起偵測環境
     3. IWR6843AOPEVM mmWave sensor : 與Webcam一起偵測環境
-    4. LDC model : 顯示時間日期資訊
+    4. LCD model : 顯示時間日期資訊
     5. LED model : 環境柔光效果工具
     6. speaker model : 當特殊事件發生時可以提醒現場人員
 4. 軟硬體連接架構圖 :  <br/>
