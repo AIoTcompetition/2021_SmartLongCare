@@ -12,4 +12,4 @@
     <br/>
     ![](https://firebasestorage.googleapis.com/v0/b/fast-mariner-312118.appspot.com/o/picture%2F%E6%8A%95%E5%BD%B1%E7%89%8716.PNG?alt=media&token=95a30569-842e-4a9f-84cc-8ecaf0487ec4)
 5. 程式碼說明
-    - AIOT_Full.py
+    - AIOT_Full.py : 所有使用到的程式碼
