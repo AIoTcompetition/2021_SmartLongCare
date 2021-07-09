@@ -1,4 +1,4 @@
-1. 作品應用主題 : 居家照護防跌
+1. 作品應用主題 : 居家摔跌照護智聯網
 2. 選用硬體 : PYNQ-Z2、Webcam、IWR6843AOPEVM mmWave sensor、LCD model、LED model、speaker model
 3. 選料說明 : 
     1. PYNQ-Z2 : 開發可用Python，方便撰寫
