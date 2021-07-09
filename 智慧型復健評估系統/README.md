@@ -38,7 +38,7 @@
 - 椅子坐立
 ![椅子坐立](https://github.com/Jack-Forks/SmartLongCare/blob/main/%E6%99%BA%E6%85%A7%E5%9E%8B%E5%BE%A9%E5%81%A5%E8%A9%95%E4%BC%B0%E7%B3%BB%E7%B5%B1/image/%E6%A4%85%E5%AD%90%E5%9D%90%E7%AB%8B.gif?raw=true)
 - 原地站立抬膝
-![原地站立抬膝](https://github.com/Jack-Forks/SmartLongCare/blob/main/%E6%99%BA%E6%85%A7%E5%9E%8B%E5%BE%A9%E5%81%A5%E8%A9%95%E4%BC%B0%E7%B3%BB%E7%B5%B1/image/%E5%8E%9F%E5%9C%B0%E7%AB%99%E7%AB%8B%E6%8A%AC%E8%86%9D.jpg?raw=true)
+![原地站立抬膝](https://github.com/Jack-Forks/SmartLongCare/blob/main/%E6%99%BA%E6%85%A7%E5%9E%8B%E5%BE%A9%E5%81%A5%E8%A9%95%E4%BC%B0%E7%B3%BB%E7%B5%B1/image/%E5%8E%9F%E5%9C%B0%E7%AB%99%E7%AB%8B%E6%8A%AC%E8%86%9D.gif?raw=true)
 
 ### iii. 完善 Python 環境下錄影與播放功能。
 
