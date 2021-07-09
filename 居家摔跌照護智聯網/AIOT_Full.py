@@ -42,7 +42,6 @@ def mmwave(num):
   print('people')
 
 def load_image(img_path, show=False):
-
  img = image.load_img(img_path, target_size=(150, 150))
  img_tensor = np.array(img)
  img_tensor = np.expand_dims(img_tensor, axis=0)                                               
