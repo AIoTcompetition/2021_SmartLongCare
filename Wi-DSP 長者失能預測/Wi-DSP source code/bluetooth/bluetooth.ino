@@ -6,9 +6,6 @@
 #define BUF_LENGTH          20
 #define DEVICE_NAME       "Test1"
 
-/* ECG Service: 00001523-1212-EFDE-1523-785FEABCD123
- * ECG RAW : 00001524-1212-EFDE-1523-785FEABCD123
- */
 const uint8_t HS_UUID_SERVICE[] =
 {
     0x23, 0xD1, 0xBC, 0xEA, 0x5F, 0x78, 0x23, 0x15,
@@ -24,7 +21,7 @@ static uint16_t adc_value[BUF_LENGTH] = {0,};
 static int counter = 0;
 static bool connected2 = false;
 
-BLEDis  bledis;    // DIS (Device Information Service) helper class instance
+BLEDis  bledis;    
 BLEService        hs(HS_UUID_SERVICE);
 BLECharacteristic hsraw(HS_UUID_CHR_RAW);
 
@@ -38,7 +35,7 @@ extern "C"
       counter++;
     }
   }
-} // extern C
+} 
 
 void setup()
 {
@@ -75,10 +72,9 @@ void startAdv(void)
   Bluefruit.Advertising.addTxPower();
   Bluefruit.Advertising.addService(hs);
   Bluefruit.ScanResponse.addName();
-  Bluefruit.Advertising.setInterval(32, 244);    // in unit of 0.625 ms
-  Bluefruit.Advertising.setFastTimeout(30);      // number of seconds in fast mode
-  Bluefruit.Advertising.start(0);                // 0 = Don't stop advertising after n seconds  
-}
+  Bluefruit.Advertising.setInterval(32, 244);    
+  Bluefruit.Advertising.setFastTimeout(30);     
+  Bluefruit.Advertising.start(0);               
 
 void loop()
 {
