@@ -10,7 +10,7 @@ static uint8_t adc_value[BUF_LENGTH] = {0,};
 static int counter = 0;
 static bool connected2 = false;
 
-BLEDis  bledis;    // 
+BLEDis  bledis;    
 BLEService        hs(test_s_uuid);
 BLECharacteristic hsraw(test_uuid);
 
@@ -28,7 +28,7 @@ extern "C"
       }
     }
   }
-} // extern C
+} 
 
 void setup()
 {
@@ -36,7 +36,6 @@ void setup()
 
   analogReadResolution(8);
 
-  //Serial.println("Initialise the Bluefruit nRF52 module");
   Bluefruit.configPrphBandwidth(BANDWIDTH_MAX);  
   Bluefruit.begin();
   Bluefruit.setName(DEVICE_NAME);
@@ -52,7 +51,7 @@ void setup()
   bledis.begin();
 
   hs.begin();
-  //1
+
   hsraw.setProperties(CHR_PROPS_READ | CHR_PROPS_NOTIFY);
   hsraw.setPermission(SECMODE_OPEN, SECMODE_NO_ACCESS);
   hsraw.setMaxLen(BUF_LENGTH);
