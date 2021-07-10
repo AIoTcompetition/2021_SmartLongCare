@@ -40,7 +40,7 @@
 - 原地站立抬膝
 ![原地站立抬膝](https://github.com/Jack-Forks/SmartLongCare/blob/main/%E6%99%BA%E6%85%A7%E5%9E%8B%E5%BE%A9%E5%81%A5%E8%A9%95%E4%BC%B0%E7%B3%BB%E7%B5%B1/image/%E5%8E%9F%E5%9C%B0%E7%AB%99%E7%AB%8B%E6%8A%AC%E8%86%9D.gif?raw=true)
 
-### iii. 完善 Python 環境下錄影與播放功能。
+### iii. 完善 pyKinectAzure 工具 在 Python 環境下錄影與播放功能。
 
 ## 7. 致謝：
 - Github [pyKinectAzure](https://github.com/ibaiGorordo/pyKinectAzure) @[Ibai Gorordo](https://github.com/ibaiGorordo)
