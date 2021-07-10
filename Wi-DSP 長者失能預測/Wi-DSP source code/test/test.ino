@@ -20,7 +20,6 @@ extern "C"
   {
      if (connected2){
       adc_value[counter] = analogRead(A5);
-      //Serial.println(adc_value[counter]);
       counter++;
       if (counter >= BUF_LENGTH) {
         hsraw.notify(adc_value, BUF_LENGTH);
