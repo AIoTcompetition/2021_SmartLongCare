@@ -67,7 +67,7 @@ void setup()
 
 void startAdv(void)
 {
-  // Advertising packet
+ 
   Bluefruit.Advertising.addFlags(BLE_GAP_ADV_FLAGS_LE_ONLY_GENERAL_DISC_MODE);
   Bluefruit.Advertising.addTxPower();
   Bluefruit.Advertising.addService(hs);
@@ -78,7 +78,6 @@ void startAdv(void)
 
 void loop()
 {
-  //Do nothing
 }
 
 void connect_callback(uint16_t conn_handle)
